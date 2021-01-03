@@ -3,8 +3,8 @@
     - Fait par:
     - Achrafe BEN AMMI 17190
     - Sohaib EL AMIRI CHARIF 17049
-    
-L'énoncé du projet est disponible sur ce lien
+
+L'énoncé du projet est disponible sur ce [lien](https://quentin.lurkin.xyz/courses/poo/projet2020/)
 
 
 # Objectif 
@@ -15,8 +15,8 @@ Les chercheurs peuvent rajouter manuelement différents types de centrales (Gaz,
 # Utilisation
 
 - Lancer le fichier Interface.py
-- Choisir option 1 pour lancer la similation
-![Screenshot](img/main.png) 
+- Choisir option 1 pour lancer la simulation
+- ![Screenshot](img/main.png) 
 - La simulation affiche les différentes données qui sont mises à jour automatiquement chaque seconde. 
 - Les messages d'alerte sont affichés lorsqu'il y a différents problèmes dans la simulation (surproduction, sousproduction,etc)
 

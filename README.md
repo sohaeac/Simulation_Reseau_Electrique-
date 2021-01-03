@@ -23,9 +23,10 @@ Pour pouvoir effectuer des recherches, on souhaite disposer d'une plateforme de 
 ## Ajout de données 
 
 - Les chercheurs peuvent rajouter des données manuelement en les insérant dans le fichier **Utils.py** dans la section prévue.
-- Rajouter un producteur dans la fonction *ListeProducteurs()* => Exemple: Doel = Producteurs.CentralNucleaire("type_centrale", "nom", production, prix_combustible, consommation_CO2)
+- Rajouter un producteur dans la fonction *ListeProducteurs()* => 
+    - Exemple: Doel = Producteurs.CentralNucleaire("type_centrale", "nom", production, prix_combustible, consommation_CO2)
 - Rajouter un consommateur dans la fonction *ListeConsommateurs()* =>
-Exemple: Bruxelles = Consommateurs.Ville("type_consommateur", "nom_ville", consommation)
+    - Exemple: Bruxelles = Consommateurs.Ville("type_consommateur", "nom_ville", consommation)
 - Une fois les données rajoutées, on relance le script **Interface.py**
 
 

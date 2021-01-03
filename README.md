@@ -14,7 +14,7 @@ Pour pouvoir effectuer des recherches, on souhaite disposer d'une plateforme de 
 # Utilisation
 
 - Cloner ou télécharger le repository
-- Lancer le fichier *Interface.py*
+- Lancer le fichier **Interface.py**
 - Choisir l'option 1 pour lancer la simulation
 - ![Screenshot](img/main.png) 
 - La simulation affiche les différentes données qui sont mises à jour automatiquement chaque seconde. 
@@ -22,7 +22,7 @@ Pour pouvoir effectuer des recherches, on souhaite disposer d'une plateforme de 
 
 ## Ajout de données 
 
-Les chercheurs peuvent rajouter des données manuelement en les insérant dans le fichier *Utils.py* dans la section prévue.
+Les chercheurs peuvent rajouter des données manuelement en les insérant dans le fichier **Utils.py** dans la section prévue.
 
 ## Documents techniques 
 

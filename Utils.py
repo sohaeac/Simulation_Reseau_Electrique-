@@ -5,7 +5,7 @@ def ListeProducteurs():
     global production_totale
 
     ''' FORMAT:
-    CentralNucleaire("type_centrale", "nom", production, prix_combustible, CO2)
+    CentralNucleaire("type_centrale", "nom", production, prix_combustible, consommation_CO2)
     CentralGaz("type_centrale","nom", production, prix_combustible, CO2)
     ParcEolien("type_centrale","nom", production, prix_combustible, CO2, meteo)
     '''
@@ -52,6 +52,7 @@ def ListeConsommateurs():
     entreprise_rand = random.randint(1,10)
 
     #RAJOUTER ICI LES CONCOMMATEURS (ensuite les insérer dans listeConsommateurs)
+    #Format: Consommateurs.Ville("type_consommateur", "nom_ville", consommation)
     conso1 = Consommateurs.Ville("Ville", "Madrid", ville_rand)
     conso2 = Consommateurs.Entreprise("Entreprise", "Shop S.A", entreprise_rand)
     

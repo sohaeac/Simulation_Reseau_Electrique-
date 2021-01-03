@@ -20,11 +20,11 @@ Les chercheurs peuvent rajouter manuelement différents types de centrales (Gaz,
 - La simulation affiche les différentes données qui sont mises à jour automatiquement chaque seconde. 
 - Les messages d'alerte sont affichés lorsqu'il y a différents problèmes dans la simulation (surproduction, sousproduction,etc)
 
-# Rajout de données 
+## Ajout de données 
 
 Les chercheurs peuvent rajouter des données manuelement en les insérant dans le fichier Utils.py dans la section prévue.
 
-# Documents techniques 
+## Documents techniques 
 
-- Le diagramme de classes et disponible ici.
-- Le diagramme de séquences est disponible ici.
+- Le diagramme de classes et disponible [ici](https://github.com/sohaeac/Simulation_Reseau_Electrique-/blob/master/img/Diagramme_classes.png).
+- Le diagramme de séquences est disponible [ici](https://github.com/sohaeac/Simulation_Reseau_Electrique-/blob/master/img/Diagramme_sequence.png).
